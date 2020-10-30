@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Color My View</string>
+    <string name="helloWorld">Hello World!</string>
+    <string name="click_me">Click Me</string>
 </resources>
